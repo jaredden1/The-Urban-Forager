@@ -1,4 +1,4 @@
-# The-Urban-Forager
+# Urban-Forager
 
 ![image]() Update with readme logo once made.
 
