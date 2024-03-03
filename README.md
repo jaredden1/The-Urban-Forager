@@ -36,3 +36,5 @@ Post-graduation, my commitment to coding daily has not only honed my skills but 
 * Future Expansion with AWS: While Docker is not currently used in the production environment, there are plans to deploy the containerized application via AWS. This move aims to leverage the scalability and reliability of AWS services.
 
 Urban Forager is more than just an app; it's a testament to continuous learning and a commitment to creating something both useful and delightful. It represents a significant leap from Chef's Kiss, both in terms of technology and user experience. Whether you're a foodie in search of your next culinary adventure or a curious explorer in the city, Urban Forager is your go-to guide.
+
+#### Access the app here: [Urban Forager](https://urban-forager.netlify.app/)
