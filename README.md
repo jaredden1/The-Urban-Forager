@@ -1,33 +1,38 @@
-# Urban Forager
 
-![image]() Update with readme logo once made.
+<p align="center">
+  <img src="https://urban-forage.s3.amazonaws.com/logo.png" alt="image"/>
+</p>
 
-#### Urban Forager is an intuitive MERN Stack application that empowers food enthusiasts to search for restaurants based on location. Users can craft their collection of favored eateries and document their dining adventures with private notes and personal reviews for future reference, creating a bespoke gastronomic diary.
+### Urban Forager: A Culinary Exploration Tool
 
- #### Welcome to Urban Forager, 
- your ultimate guide to discovering the best 
- culinary experiences in any neighborhood. Our app is a food lover's
- paradise, meticulously designed to help you find and explore
- restaurants, delis, cafes, bakeries, gastropubs, lounges, and more
- whether you're in your local area or exploring a new city. With Urban
- Forager, your search for the perfect meal becomes a seamless and
- personalized journey. Dive into a wide array of food categories to
- satisfy any craving and uncover hidden gems that serve your favorite
- dishes. Our user-friendly interface displays vital information for
- each establishment, including star ratings, the number of reviews,          
- addresses, phone numbers, and precise map locations, accompanied by
- vivid images to give you a taste of what awaits. Our commitment to a
- tailored dining experience doesn't stop there. By signing up, you gain
- the power to curate your gastronomic adventure. Save your favorite
- spots for quick access, and add comments about your experiences or
- favorite dishes. Update or delete your insights as your tastes evolve,
- and manage your saved list with the flexibility to add or remove
- places as you please. Navigating your saved favorites is effortless
- with Urban Forager. Use our dedicated search bar or filter by location
- or category through dropdown menus to swiftly find what you're
- seeking. And when you're ready to delve deeper, a single click on your
- chosen business will transport you to its Yelp page, where a world of
- reviews and additional information awaits. Urban Forager is more than
- just an app; it's your companion in the quest for culinary delight.
- Join us, and let your taste buds lead the way to unforgettable dining
- experiences.
+Urban Forager is not just a restaurant finder app; it's the culmination of a journey in technology and a passion for gastronomy. Conceived initially during my time at General Assembly, the idea was simple yet ambitious: to create a tool that helps food enthusiasts discover and explore restaurants with ease. Back then, as a project concept, it was known as [Chef's Kiss](https://thechefskiss.netlify.app/). However, limited by the skills I had at the time, it remained just a seedling of an idea.
+
+Post-graduation, my commitment to coding daily has not only honed my skills but has also allowed me to revisit my original idea with fresh eyes and advanced capabilities. Over a focused development period of 10 weeks, Urban Forager was meticulously crafted, embodying both my personal growth and the evolution of my initial concept.
+
+### What Sets Urban Forager Apart?
+
+* Elegant and Professional Interface: The design ethos for Urban Forager was clarity and professionalism. The goal was to create an interface that is not only aesthetically pleasing but also intuitive and user-friendly.
+
+* Robust Backend Integration with APIs: At its core, Urban Forager leverages the power of multiple APIs. The integration with Mapbox API provides a seamless and interactive visualization of restaurant locations. Meanwhile, the Yelp Fusion API is instrumental in fetching up-to-date and relevant restaurant information.
+
+* Efficient Caching System: Recognizing the importance of performance and cost-efficiency, Urban Forager implements a caching mechanism. This significantly reduces the frequency and cost of API calls, enhancing the overall user experience.
+
+* Secure User Authentication with Auth0: User experience is further enriched by the implementation of Auth0. This provides a secure and hassle-free way for users to sign up or log in and personalize their experience, like saving their favorite restaurants and leaving personalized comments about their saved restaurants on their "My Collections" page.
+
+* Fallback Images for a Seamless Experience: I have also addressed the common issue of broken image links in search results. By implementing fallback images, Urban Forager ensures that users always have a visually consistent and pleasing experience.
+
+* Docker and Docker-Compose in Development: In the development environment, Urban Forager utilizes Docker and Docker-compose. This ensures a consistent and isolated environment for development and testing, mirroring production settings and reducing the "it works on my machine" syndrome.
+  
+* Image Hosting on AWS: In the current setup, all images on Urban Forager are hosted on AWS, ensuring fast and reliable access to media resources.
+  
+* Accessible Contact via Email Form: Understanding the importance of user feedback and open communication channels, an email form is integrated into the contact page. This allows users to effortlessly reach out with their feedback, questions, or concerns, ensuring that Urban Forager continues to evolve in line with user needs and expectations.
+
+* User-Friendly Error Handling: To maintain a consistent and smooth user experience, Urban Forager includes a dedicated error page. This ensures that if users encounter a broken link or navigate to a non-existent page, their experience remains uninterrupted and guided, thereby reducing frustration and enhancing overall usability.
+
+* Dual Search Functionality for Enhanced Discovery: Urban Forager's search capability is thoughtfully designed with two distinct search bars. The first is dedicated to cuisine types or restaurant styles, enabling users to explore based on their culinary preferences. The second search bar focuses on location, allowing for geographically specific searches. This dual approach empowers users to tailor their search with precision and ease.
+
+* Automatic Location Detection: Embracing convenience and intuitive use, Urban Forager also features an automatic location detection feature. By default, the app can find the user's location, streamlining the search process and instantly providing relevant nearby restaurant suggestions. This feature is particularly useful for users who are exploring new areas or are on the move.
+
+* Future Expansion with AWS: While Docker is not currently used in the production environment, there are plans to deploy the containerized application via AWS. This move aims to leverage the scalability and reliability of AWS services.
+
+Urban Forager is more than just an app; it's a testament to continuous learning and a commitment to creating something both useful and delightful. It represents a significant leap from Chef's Kiss, both in terms of technology and user experience. Whether you're a foodie in search of your next culinary adventure or a curious explorer in the city, Urban Forager is your go-to guide.
