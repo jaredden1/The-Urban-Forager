@@ -5,7 +5,7 @@
 
 ### Urban Forager: A Culinary Exploration Tool
 
-Urban Forager is not just a restaurant finder app; it's the culmination of a journey in technology and a passion for gastronomy. Conceived initially during my time at General Assembly, the idea was simple yet ambitious: to create a tool that helps food enthusiasts discover and explore restaurants with ease. Back then, as a project concept, it was known as [Chef's Kiss](https://thechefskiss.netlify.app/). However, limited by the skills I had at the time, it remained just a seedling of an idea.
+Urban Forager is not just a restaurant finder app; it's the culmination of a journey in technology and a passion for gastronomy. Conceived initially during my time at General Assembly, the idea was simple yet ambitious: to create a tool that helps food enthusiasts discover and explore restaurants with ease. Back then, as a project concept, it was known as Chef's Kiss. However, limited by the skills I had at the time, it remained just a seedling of an idea.
 
 Post-graduation, my commitment to coding daily has not only honed my skills but has also allowed me to revisit my original idea with fresh eyes and advanced capabilities. Over a focused development period of 10 weeks, Urban Forager was meticulously crafted, embodying both my personal growth and the evolution of my initial concept.
 
