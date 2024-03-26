@@ -3,13 +3,13 @@
   <img src="https://urban-forage.s3.amazonaws.com/logo.png" alt="image"/>
 </p>
 
-### Urban Forager: A Culinary Exploration Tool
+## Urban Forager: A Culinary Exploration Tool
 
 Urban Forager is not just a restaurant finder app; it's the culmination of a journey in technology and a passion for gastronomy. Conceived initially during my time at General Assembly, the idea was simple yet ambitious: to create a tool that helps food enthusiasts discover and explore restaurants with ease. Back then, as a project concept, it was known as Chef's Kiss. However, limited by the skills I had at the time, it remained just a seedling of an idea.
 
-Post-graduation, my commitment to coding daily has not only honed my skills but has also allowed me to revisit my original idea with fresh eyes and advanced capabilities. Over a focused development period of 10 weeks, Urban Forager was meticulously crafted, embodying both my personal growth and the evolution of my initial concept.
+Post-graduation, my commitment to coding daily has not only honed my skills but has also allowed me to revisit my original idea with fresh eyes and advanced capabilities. Over a focused development period of 10 weeks, Urban Forager was meticulously crafted, embodying my personal growth and the evolution of my initial concept.
 
-### What Sets Urban Forager Apart?
+## What Sets Urban Forager Apart?
 
 * Elegant and Professional Interface: The design ethos for Urban Forager was clarity and professionalism. The goal was to create an interface that is not only aesthetically pleasing but also intuitive and user-friendly.
 
@@ -37,4 +37,7 @@ Post-graduation, my commitment to coding daily has not only honed my skills but 
 
 Urban Forager is more than just an app; it's a testament to continuous learning and a commitment to creating something both useful and delightful. It represents a significant leap from Chef's Kiss, both in terms of technology and user experience. Whether you're a foodie in search of your next culinary adventure or a curious explorer in the city, Urban Forager is your go-to guide.
 
-#### Access the app here: [Urban Forager](https://urban-forager.netlify.app/)
+#### Live Site here: [Urban Forager](https://urban-forager.netlify.app/)
+
+## Urban Forager's Source Code Repository
+The Urban Forager app's source code is maintained in a private repository. If you're a technical recruiter interested in exploring the Urban Forager source code, please feel free to reach out to me directly. I welcome the opportunity to guide you through my codebase and discuss its intricacies with you.
